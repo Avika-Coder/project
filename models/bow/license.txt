@@ -1,0 +1,11 @@
+Model Information:
+* title:	DAE Weaponcraft - Ice Bow
+* source:	https://sketchfab.com/3d-models/dae-weaponcraft-ice-bow-1c840a3154104095a4d5c1929e0344a1
+* author:	Agata Tomaszewska (https://sketchfab.com/AgataTomaszewska)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DAE Weaponcraft - Ice Bow" (https://sketchfab.com/3d-models/dae-weaponcraft-ice-bow-1c840a3154104095a4d5c1929e0344a1) by Agata Tomaszewska (https://sketchfab.com/AgataTomaszewska) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
